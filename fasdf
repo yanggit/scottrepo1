@@ -1,0 +1,77 @@
+[33mcommit 27fd4a13b2687d1b1208b3aefd2dbfbb125f44e7[m
+Author: scott <sgh>
+Date:   Tue Apr 2 09:51:58 2013 +0800
+
+    remove cv.doc
+
+[1mdiff --git a/CV.doc b/CV.doc[m
+[1mdeleted file mode 100644[m
+[1mindex cd99ba8..0000000[m
+[1m--- a/CV.doc[m
+[1m+++ /dev/null[m
+[36m@@ -1,65 +0,0 @@[m
+[31m-[m
+[31m-                                  Scott So[m
+[31m-                               Beijing, China[m
+[31m-                    Email Address: scottsgh915@gmail.com[m
+[31m-[m
+[31m-PERSONAL INFORMATION[m
+[31m-Date of Birth              May 1, 1986[m
+[31m-Place of Birth             China[m
+[31m-Sex                    M[m
+[31m-[m
+[31m-EMPLOYMENT HISTORY[m
+[31m-2006 – 2007            Java developer & team manager[m
+[31m-HMD Ltd.    - employed on a part-time basis on Friday evenings & Saturdays[m
+[31m-                       and was responsible for creating catalog layouts[m
+[31m-[m
+[31m-2007 – 2009            .Net Developer[m
+[31m-Sosit Ltd.  - worked as a project manager & developer in Purchase Module,[m
+[31m-                       Camera System, Vehicle Tracking System[m
+[31m-2009 – present             .Net/PHP Developer[m
+[31m-HaiWei co. ltd.    - Freelance Staffing Manager, asp.net Web developer[m
+[31m-[m
+[31m-[m
+[31m-EDUCATION[m
+[31m-2002 – 2008            Information Technology[m
+[31m-Beijing University[m
+[31m-[m
+[31m-SKILLS[m
+[31m-IT Skills:[m
+[31m-    - Program Language: ASP.NET, C#, VB.NET, MFC, VC++, PHP, Java[m
+[31m-    - Database: MySQL, MSSQL[m
+[31m-    - Development IDE: VS, Nusphere, Eclipse[m
+[31m-    - SVN: TFS, Totorise SVN, Git, Assembla[m
+[31m-    - Competent: Microsoft Office (includ. Word, Excel and Access)[m
+[31m-    - Comfortable: Microsoft Windows, Linux[m
+[31m-    - php Framework: wordpress, joomla, zend[m
+[31m-[m
+[31m-Languages:[m
+[31m-        - Fluent English (written & spoken; qualification, if any)[m
+[31m-    - Basic Japanese[m
+[31m-[m
+[31m-[m
+[31m-Portfolio Site:[m
+[31m--PHP/joomla/wordpress/zend/magento[m
+[31m-http://www.bookperthaccommodation.com/[m
+[31m-http://www.waterandink.net[m
+[31m-http://houseofrockfl.com/pro[m
+[31m-https://www.quantjunkienetwork.com/fxaddicts[m
+[31m-http://www.fxaddicts.com[m
+[31m-http://www.kindlehouse.co.uk/store[m
+[31m-http://sureview.ca/main/[m
+[31m-http://chromeoslounge.com[m
+[31m-http://www.crfers.com[m
+[31m-http://www.thebestthingieverdid.com/[m
+[31m-http://inkon.net/[m
+[31m-http://www.kindlehouse.co.uk/store/bonheur-scarf[m
+[31m-http://www.urpacked.com[m
+[31m-http://www.century21.com[m
+[31m-[m
+[31m--asp.net[m
+[31m-http://cbtnuggets.bonsaimediagroup.com/[m
+[31m-http://www.connectuspro.com[m
+[31m-http://www.improvingrestaurants.com[m
+[31m-http://www.robusthaven.com[m
+[31m-http://connect2field.com[m
+[31m-http://www.laxocompute.com[m
